@@ -7,7 +7,9 @@ git branch -M main
 git remote add origin git@github.com:Nouchaionme/learn-github.git
 git push -u origin main
 
-
+git add .
+git commit -m "Hello world"
+git push
 
 First time login
 ssh-keygen -t ed25519 -C "your_email@example.com"
