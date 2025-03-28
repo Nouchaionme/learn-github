@@ -4,3 +4,6 @@ const a = 'hello'
 console.log(a)
 
 console.log("This is my PC")
+
+
+console.log("hi sir")
