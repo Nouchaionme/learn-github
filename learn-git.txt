@@ -1,0 +1,15 @@
+-> Terminal
+git init
+git add .
+Follow github instruction
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Nouchaionme/learn-github.git
+git push -u origin main
+
+
+
+First time login
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ eval "$(ssh-agent -s)"
+  cat ~/.ssh/id_ed25519.pub 
